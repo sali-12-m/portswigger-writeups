@@ -25,10 +25,5 @@ Then go to Burp repeater and replace the Cookie and change the user credintial t
 <img width="960" height="928" alt="image" src="https://github.com/user-attachments/assets/528f848a-ed3b-4577-9e26-6c888f1be03f" />
 
 
-
-
-
-
-## Intercepting the Request
-
-![Burp Request](images/request.png)
+Then send that. now we solve the lab.
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/2a3dc708-5416-4a25-84e8-5fedfbca19ab" />
