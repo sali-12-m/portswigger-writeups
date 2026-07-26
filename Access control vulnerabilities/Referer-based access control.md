@@ -6,7 +6,7 @@ This lab demonstrates an access control vulnerability where the application reli
 The objective of the lab is to login as the normal user wiener and exploit the flawed access control mechanism to gain administrative privileges. By intercepting and modifying requests with Burp Suite, it is possible to manipulate the Referer header and bypass the application's authorization checks, ultimately promoting the wiener account to an administrator.
 
 First we need to access the web application
-![Login Page](<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/3809ae2e-abfb-4f19-a7f7-c3dbb32fb348" />)
+<img width="1920" height="928" alt="image" src="https://github.com/user-attachments/assets/3809ae2e-abfb-4f19-a7f7-c3dbb32fb348" />
 
 ## Intercepting the Request
 
